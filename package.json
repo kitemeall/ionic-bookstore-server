@@ -17,7 +17,7 @@
     "express-rate-limit": "^1.0.2",
     "jwt-simple": "^0.3.0",
     "mongojs": "^0.18.2",
-    "morgan": "^1.5.3",
+    "morgan": "^1.5.3"
   },
   "devDependencies": {
     "faker": "^2.1.3",

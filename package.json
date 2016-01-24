@@ -1,5 +1,5 @@
 {
-  "name": "ionic-book-store",
+  "name": "ri-book-store-app",
   "version": "0.1.0",
   "description": "API Server for online book store",
   "main": "server.js",
@@ -21,6 +21,5 @@
   },
   "devDependencies": {
     "faker": "^2.1.3",
-    "forever": "^0.14.1"
   }
 }
